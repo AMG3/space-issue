@@ -1,0 +1,17 @@
+.externo {
+    width: 80%;
+    padding: 1rem;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.interno {
+    border: 1px solid red;
+}
